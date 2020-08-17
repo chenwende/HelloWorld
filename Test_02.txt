@@ -1,2 +1,3 @@
 Test for git --amend
 Test for git rebase
+Test for git rebase 2
